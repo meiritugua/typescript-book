@@ -1,6 +1,8 @@
 TypeScript Deep Dive
 =======
 
+> 本开源书 forked from [TypeScript Deep Dive](https://github.com/basarat/typescript-book)，作者为 [basarat](https://github.com/basarat)，欢迎大家 star 原作者的 [repo](https://github.com/basarat/typescript-book)，以便获得最新更新，谢谢！
+
 I've been looking at the issues that turn up commonly when people start using TypeScript. This is based on the lessons from [StackOverflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) and general engagement with the [TypeScript community](https://github.com/TypeStrong/). You can [follow for updates](https://twitter.com/basarat) and [don't forget to ★ on Github](https://github.com/basarat/typescript-book) 🌹
 
 ## Reviews
