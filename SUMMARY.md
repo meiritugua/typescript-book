@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Getting Started](docs/getting-started.md)
   * [Why TypeScript](docs/why-typescript.md)
 * [JavaScript](docs/javascript/recap.md)
